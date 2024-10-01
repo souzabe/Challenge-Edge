@@ -2,7 +2,7 @@
 <h2>Vídeo de Explicação do Projeto</h2>
 <a href="https://youtu.be/wj4XWAFnmSw">https://youtu.be/wj4XWAFnmSw</a>
 <h2>Projeto Wokwi</h2>
-<a href="https://wokwi.com/projects/410505332837468161"></a>
+<a href="https://wokwi.com/projects/410505332837468161">https://wokwi.com/projects/410505332837468161</a>
 
 <h1>Projeto de Verificação de Temperatura do Carro ao passar por Sensor de Proximidade</h1>
 
