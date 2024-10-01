@@ -35,6 +35,7 @@
 
 <h2>INTEGRANTES</h2>
 <ul>
-    <li><strong>Wokwi</strong>: Acesso à plataforma online para simulação de circuitos.</li>
-    <li><strong>Bibliotecas</strong>: Dependendo do sensor de temperatura utilizado, pode ser necessário instalar bibliotecas específicas.</li>
+    <li><strong>Maurício Alves</strong> RM: 556214</li>
+    <li><strong>Carlos Henrique</strong> RM: 558003</li>
+    <li><strong>Rodrigo Hiroshi</strong> RM: 557374</li>
 </ul>
